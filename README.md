@@ -24,7 +24,7 @@ Before diving into the code, ensure you have a proper C++ development environmen
 Clone this repository:
 
 ```bash
-git clone https://github.com/Ahmed9588406/cpp-basics.git
+git clone https://github.com/Ahmed9588406/Cpp.git
 cd cpp-basics
 ```
 
